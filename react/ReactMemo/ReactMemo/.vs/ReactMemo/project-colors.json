@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f01d1710-54b3-473e-ac5c-cdb8ab932a55": {
+      "ProjectGuid": "f01d1710-54b3-473e-ac5c-cdb8ab932a55",
+      "DisplayName": "ReactMemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
